@@ -1,0 +1,167 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Eggman_01_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_02_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_03_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_04_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_05_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_06_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_07_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_08_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_09_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_10_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_11_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_12_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_13_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_14_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_15_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_16_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_17_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_18_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_19_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_20_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_21_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_22_anim.sticker"
+    },
+    {
+      "filename" : "clin_d_oeil_2_anim.sticker"
+    },
+    {
+      "filename" : "bisou_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_fond.sticker"
+    },
+    {
+      "filename" : "yeux_clignement_seuls_anim_4000ms.sticker"
+    },
+    {
+      "filename" : "clin_d_oeil_seul_anim_2000ms.sticker"
+    },
+    {
+      "filename" : "yeux_seducteurs_seuls_anim_2000ms.sticker"
+    },
+    {
+      "filename" : "yeux_hihihi_anim_200ms.sticker"
+    },
+    {
+      "filename" : "oeil_twitch_anim_1000ms.sticker"
+    },
+    {
+      "filename" : "bisou_seul_anim_2000ms.sticker"
+    },
+    {
+      "filename" : "bouche_hurlante_anim_200ms.sticker"
+    },
+    {
+      "filename" : "bouche_ouverte_anim_1000ms.sticker"
+    },
+    {
+      "filename" : "bouche_oh_anim_2000ms.sticker"
+    },
+    {
+      "filename" : "Eggman_nez.sticker"
+    },
+    {
+      "filename" : "coeur_anim_2000ms.sticker"
+    },
+    {
+      "filename" : "fleur_2_anim_2000ms.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_1.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_2.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_3.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_4.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_5.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_7.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_9.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_10.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_11.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_12.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_13.sticker"
+    },
+    {
+      "filename" : "Eggman_bouche_15.sticker"
+    },
+    {
+      "filename" : "Eggman_casquette-1.sticker"
+    },
+    {
+      "filename" : "coeur_anim.sticker"
+    },
+    {
+      "filename" : "Eggman_lunettes.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
