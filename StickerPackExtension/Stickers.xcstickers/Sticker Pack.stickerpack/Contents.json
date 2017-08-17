@@ -1,70 +1,70 @@
 {
   "stickers" : [
     {
-      "filename" : "Eggman_01_anim.sticker"
+      "filename" : "Eggman_01.sticker"
     },
     {
-      "filename" : "Eggman_02_anim.sticker"
+      "filename" : "Eggman_02.sticker"
     },
     {
-      "filename" : "Eggman_03_anim.sticker"
+      "filename" : "Eggman_03.sticker"
     },
     {
-      "filename" : "Eggman_04_anim.sticker"
+      "filename" : "Eggman_04.sticker"
     },
     {
-      "filename" : "Eggman_05_anim.sticker"
+      "filename" : "Eggman_05.sticker"
     },
     {
-      "filename" : "Eggman_06_anim.sticker"
+      "filename" : "Eggman_06.sticker"
     },
     {
-      "filename" : "Eggman_07_anim.sticker"
+      "filename" : "Eggman_07.sticker"
     },
     {
-      "filename" : "Eggman_08_anim.sticker"
+      "filename" : "Eggman_08.sticker"
     },
     {
-      "filename" : "Eggman_09_anim.sticker"
+      "filename" : "Eggman_09.sticker"
     },
     {
-      "filename" : "Eggman_10_anim.sticker"
+      "filename" : "Eggman_10.sticker"
     },
     {
-      "filename" : "Eggman_11_anim.sticker"
+      "filename" : "Eggman_11.sticker"
     },
     {
-      "filename" : "Eggman_12_anim.sticker"
+      "filename" : "Eggman_12.sticker"
     },
     {
-      "filename" : "Eggman_13_anim.sticker"
+      "filename" : "Eggman_13.sticker"
     },
     {
-      "filename" : "Eggman_14_anim.sticker"
+      "filename" : "Eggman_14.sticker"
     },
     {
-      "filename" : "Eggman_15_anim.sticker"
+      "filename" : "Eggman_15.sticker"
     },
     {
-      "filename" : "Eggman_16_anim.sticker"
+      "filename" : "Eggman_16.sticker"
     },
     {
-      "filename" : "Eggman_17_anim.sticker"
+      "filename" : "Eggman_17.sticker"
     },
     {
-      "filename" : "Eggman_18_anim.sticker"
+      "filename" : "Eggman_18.sticker"
     },
     {
-      "filename" : "Eggman_19_anim.sticker"
+      "filename" : "Eggman_19.sticker"
     },
     {
-      "filename" : "Eggman_20_anim.sticker"
+      "filename" : "Eggman_20.sticker"
     },
     {
-      "filename" : "Eggman_21_anim.sticker"
+      "filename" : "Eggman_21.sticker"
     },
     {
-      "filename" : "Eggman_22_anim.sticker"
+      "filename" : "Eggman_22.sticker"
     },
     {
       "filename" : "clin_d_oeil_2_anim.sticker"
@@ -106,12 +106,6 @@
       "filename" : "Eggman_nez.sticker"
     },
     {
-      "filename" : "coeur_anim_2000ms.sticker"
-    },
-    {
-      "filename" : "fleur_2_anim_2000ms.sticker"
-    },
-    {
       "filename" : "Eggman_bouche_1.sticker"
     },
     {
@@ -151,10 +145,13 @@
       "filename" : "Eggman_casquette-1.sticker"
     },
     {
-      "filename" : "coeur_anim.sticker"
+      "filename" : "Eggman_lunettes.sticker"
     },
     {
-      "filename" : "Eggman_lunettes.sticker"
+      "filename" : "coeur_anim_2000ms.sticker"
+    },
+    {
+      "filename" : "fleur_2_anim_2000ms.sticker"
     }
   ],
   "info" : {
