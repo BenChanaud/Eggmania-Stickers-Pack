@@ -106,10 +106,12 @@
 				TargetAttributes = {
 					37FBD0D81F136E92006F2DF2 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 8W8B9N39G7;
 						ProvisioningStyle = Automatic;
 					};
 					37FBD0DC1F136E92006F2DF2 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 8W8B9N39G7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -254,6 +256,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 8W8B9N39G7;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ddpfrance.Eggmania.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -265,6 +268,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 8W8B9N39G7;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ddpfrance.Eggmania.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,9 +280,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 8W8B9N39G7;
 				INFOPLIST_FILE = Eggmania/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ddpfrance.Eggmania;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -286,9 +294,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 8W8B9N39G7;
 				INFOPLIST_FILE = Eggmania/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ddpfrance.Eggmania;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
@@ -311,6 +323,7 @@
 				37FBD0E81F136E92006F2DF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37FBD0EA1F136E92006F2DF2 /* Build configuration list for PBXNativeTarget "Eggmania" */ = {
 			isa = XCConfigurationList;
@@ -319,6 +332,7 @@
 				37FBD0EC1F136E92006F2DF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
